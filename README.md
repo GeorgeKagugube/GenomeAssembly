@@ -1,5 +1,6 @@
 # GenomeAssembly
-Denovo assembly of franxious Manchurica reference genome using long read oxford nanopore datasets
+Denovo assembly of franxious Manchurica reference genome using long-read Oxford nanopore datasets. 
+
 
 Preprocessing steps
 
